@@ -1,3 +1,3 @@
-module github.com/library-development/go-functioncafe
+module lib.dev/functioncafe
 
 go 1.19
